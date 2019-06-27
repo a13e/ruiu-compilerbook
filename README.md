@@ -1,2 +1,4 @@
 # ruiu-compilerbook
-https://www.sigbus.info/compilerbook
+
+Macで[低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook)を動かすためのレポジトリ。
+
